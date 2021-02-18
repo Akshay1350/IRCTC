@@ -7,5 +7,11 @@ public class Demo{
         int x=10;
 }
 
+   //BUG-432778
+   public void bugFix(){
+       //changes
+
+   }
+
 
 }
